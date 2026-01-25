@@ -1,4 +1,4 @@
 function Home () {
-    return <h1>Bem vindo ao projeto CDB!!</h1>
+    return <h1>Um projeto iniciado para trazer jogos do Nintendo!</h1>
 }
     export default Home
