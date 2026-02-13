@@ -1,4 +1,4 @@
 function Home() {
-  return <h1>Uma maneira de me livrar dos vicios.</h1>;
+  return <h1>Teorias Econômicas</h1>;
 }
 export default Home;
